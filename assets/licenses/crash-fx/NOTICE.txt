@@ -1,0 +1,14 @@
+Master Car Destruction - crash effects (CrashFx)
+
+assets/fx/crash-*.webp, assets/textures/decals.webp
+  Own work of the project owner, generated in code (tools/fx-gen/sprites.py, tools/fx-gen/decals.py).
+
+assets/sounds/crash-*.ogg
+  Mixed from sounds by Kenney (www.kenney.nl) and own synthesis (tools/fx-gen/sounds.py).
+  Kenney sources, all released under Creative Commons Zero (CC0 1.0):
+    - Impact Sounds        (impactMetal_*, impactPlate_*, impactGlass_*, impactTin_*)
+    - Sci-fi Sounds        (explosionCrunch_*, lowFrequency_explosion_*)
+    - Desert Shooter Pack  (explosion-*)
+  License text: assets/licenses/kenney/License.txt
+  https://creativecommons.org/publicdomain/zero/1.0/
+  Crediting Kenney is not required, but appreciated.
